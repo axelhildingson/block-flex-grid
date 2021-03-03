@@ -1,6 +1,6 @@
 
 import Page from "./Page"
-import styled, { css } from 'styled-components'
+import { css } from 'styled-components'
 import image from './images/page4.png'
 
 const stylesBlock = css`
